@@ -22,8 +22,8 @@ To read a thread name from the user and display the current thread’s name and 
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: AJITH KUMAR A
-RegisterNumber: 212223230009
+Developed by: REVATHI K
+RegisterNumber: 212223040169
 */
 ```
 
